@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.hangman_container {
+    text-align: center;
+}
+
+#guessing_word {
+    letter-spacing: .4em;
+    margin: 2em auto;
+}
+
+#alphabet {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.single_letter {
+    height: 25px;
+    width: 30px;
+    margin: 0.2em;
+    cursor: pointer;
+}
+
+#moves_left {
+    margin: 2em auto;
+}
+

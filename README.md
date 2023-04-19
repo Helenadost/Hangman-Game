@@ -1,5 +1,5 @@
 # Hangman game
 
-Live preview [here](https://codebydosty.cz/projects/hangman/index.html).
+Live preview [here](https://codebydosty.cz/hangman.php).
 
 ![My Image](img/hangman.png)
